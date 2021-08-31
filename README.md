@@ -6,4 +6,4 @@
  - **Passionate teacher**, top user on [StackOverflow](https://stackoverflow.com/users/2411243/Zabuzard?tab=profile), top helper on *Together Java*
  - **Strong academic background** with focus on algorithm development and analysis
 
-Working as C++ Programmer for [Ubisoft Düsseldorf](https://duesseldorf.ubisoft.com) on the topic of game downloads and uploads.
+Working as C++ Programmer for [Q2Web](https://www.q2web.de) on the topic of service development.
